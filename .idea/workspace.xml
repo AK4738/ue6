@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bf9f4f9-3fef-4a4e-911e-e37f14e9f3ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/at/ac/fhkufstein/Aufgabe2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/at/ac/fhkufstein/Aufgabe4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/at/ac/fhkufstein/Aufgabe5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/at/ac/fhkufstein/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,36 +24,63 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="1" />
+          <entry key="java" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="1" />
+          <entry key="JAVA" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="191" />
+          <entry key="java" value="1091" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="191" />
+          <entry key="JAVA" value="1091" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/at/ac/fhkufstein/Aufgabe2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="163">
-              <caret line="16" column="58" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
+            <state relative-caret-position="-10">
+              <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/at/ac/fhkufstein/Aufgabe4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/at/ac/fhkufstein/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="35" lean-forward="true" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/at/ac/fhkufstein/Aufgabe5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="41">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -76,6 +102,10 @@
       <list>
         <option value="$PROJECT_DIR$/src/Aufgabe2.java" />
         <option value="$PROJECT_DIR$/src/at/ac/fhkufstein/Aufgabe2.java" />
+        <option value="$PROJECT_DIR$/src/at/ac/fhkufstein/Anwendung.java" />
+        <option value="$PROJECT_DIR$/src/at/ac/fhkufstein/Student.java" />
+        <option value="$PROJECT_DIR$/src/at/ac/fhkufstein/Aufgabe5.java" />
+        <option value="$PROJECT_DIR$/src/at/ac/fhkufstein/Aufgabe4.java" />
       </list>
     </option>
   </component>
@@ -110,6 +140,12 @@
               <item name="Uebung6_1810653260" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Uebung6_1810653260" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Uebung6_1810653260" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fhkufstein" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -119,7 +155,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546695064681" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546700838412" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -133,9 +169,35 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Aufgabe2">
+  <component name="RunManager" selected="Application.Aufgabe4">
     <configuration name="Aufgabe2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="at.ac.fhkufstein.Aufgabe2" />
+      <module name="Uebung6_1810653260" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.ac.fhkufstein.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Aufgabe4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="at.ac.fhkufstein.Aufgabe4" />
+      <module name="Uebung6_1810653260" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.ac.fhkufstein.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Aufgabe5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="at.ac.fhkufstein.Aufgabe5" />
       <module name="Uebung6_1810653260" />
       <extension name="coverage">
         <pattern>
@@ -157,12 +219,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="at.ac.fhkufstein.Student" />
+      <module name="Uebung6_1810653260" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.ac.fhkufstein.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Aufgabe2" />
+      <item itemvalue="Application.Aufgabe4" />
+      <item itemvalue="Application.Student" />
+      <item itemvalue="Application.Aufgabe5" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Aufgabe4" />
+        <item itemvalue="Application.Aufgabe5" />
+        <item itemvalue="Application.Student" />
         <item itemvalue="Application.Aufgabe2" />
       </list>
     </recent_temporary>
@@ -177,12 +258,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1546694187145</updated>
-      <workItem from="1546694193574" duration="901000" />
+      <workItem from="1546694193574" duration="6403000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="901000" />
+    <option name="totallyTimeSpent" value="6403000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="768" y="0" width="768" height="824" extended-state="0" />
@@ -195,7 +276,7 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Messages" weight="0.3299566" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" weight="0.3299566" />
@@ -236,13 +317,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/at/ac/fhkufstein/Aufgabe2.java">
+    <entry file="file://$PROJECT_DIR$/src/at/ac/fhkufstein/Aufgabe3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="16" column="58" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/at/ac/fhkufstein/Anwendung.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="22" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/at/ac/fhkufstein/Aufgabe2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10">
+          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/at/ac/fhkufstein/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="35" lean-forward="true" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/at/ac/fhkufstein/Aufgabe5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/at/ac/fhkufstein/Aufgabe4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
